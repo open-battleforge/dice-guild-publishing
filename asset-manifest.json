@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/dice-guild-publishing/static/css/main.7eeb4802.css",
-    "main.js": "/dice-guild-publishing/static/js/main.d4a81ade.js",
+    "main.js": "/dice-guild-publishing/static/js/main.ad74e7a0.js",
     "static/js/787.c0e132c3.chunk.js": "/dice-guild-publishing/static/js/787.c0e132c3.chunk.js",
     "static/media/splash.jpg": "/dice-guild-publishing/static/media/splash.89684566728425963cbc.jpg",
     "static/media/logo.png": "/dice-guild-publishing/static/media/logo.e155946ce5044e18d09a.png",
     "static/media/logo_large.png": "/dice-guild-publishing/static/media/logo_large.2456c628fc699fd41de7.png",
     "index.html": "/dice-guild-publishing/index.html",
     "main.7eeb4802.css.map": "/dice-guild-publishing/static/css/main.7eeb4802.css.map",
-    "main.d4a81ade.js.map": "/dice-guild-publishing/static/js/main.d4a81ade.js.map",
+    "main.ad74e7a0.js.map": "/dice-guild-publishing/static/js/main.ad74e7a0.js.map",
     "787.c0e132c3.chunk.js.map": "/dice-guild-publishing/static/js/787.c0e132c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7eeb4802.css",
-    "static/js/main.d4a81ade.js"
+    "static/js/main.ad74e7a0.js"
   ]
 }
