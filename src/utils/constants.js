@@ -10,8 +10,8 @@ export const GAMES = {
     "name": "Vortex Gate",
     "toAbs": "https://www.vortexgategame.com/",
     "text": "Modular miniature wargame which covers skirmish up to large battle game sizes with many different game settings available.",
-    "image": "/images/vortex_gate.jpg",
-    "logo": "/images/vortex_gate_logo.png",
+    "image": "/dice-guild-publishing/images/vortex_gate.jpg",
+    "logo": "dice-guild-publishing/images/vortex_gate_logo.png",
     "color": "#2e8545"
   },
   "battle_forge": {
@@ -19,8 +19,8 @@ export const GAMES = {
     "name": "Battle Forge",
     "toAbs": "https://www.battleforgegame.com/",
     "text": "Modular miniature wargame which covers skirmish up to large battle game sizes with many different game settings available.",
-    "image": "/images/battle_forge.jpg",
-    "logo": "/images/battle_forge_logo.png",
+    "image": "dice-guild-publishing/images/battle_forge.jpg",
+    "logo": "dice-guild-publishing/images/battle_forge_logo.png",
     "color": "#2e8545"
   },
   "quest_forge": {
@@ -28,8 +28,8 @@ export const GAMES = {
     "name": "Quest Forge",
     "toAbs": "https://www.questforgegame.com/",
     "text": "Modular roleplaying game with several different settings to choose from and a flexible set of rules to cover anything you want.",
-    "image": "/images/quest_forge.jpg",
-    "logo": "/images/quest_forge_logo.png",
+    "image": "dice-guild-publishing/images/quest_forge.jpg",
+    "logo": "dice-guild-publishing/images/quest_forge_logo.png",
     "color": "#613480"
   }
 }
