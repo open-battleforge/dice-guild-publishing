@@ -10,7 +10,7 @@ export const GAMES = {
     "name": "Vortex Gate",
     "toAbs": "https://www.vortexgategame.com/",
     "text": "Modular miniature wargame which covers skirmish up to large battle game sizes with many different game settings available.",
-    "image": "/dice-guild-publishing/images/vortex_gate.jpg",
+    "image": "dice-guild-publishing/images/vortex_gate.jpg",
     "logo": "dice-guild-publishing/images/vortex_gate_logo.png",
     "color": "#2e8545"
   },
