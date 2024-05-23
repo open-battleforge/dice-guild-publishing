@@ -70,7 +70,7 @@ export const navItems = [
     id: 'github',
     name: 'GitHub',
     icon: <GitHubIcon />,
-    toAbs: 'https://github.com/dice-guild'
+    toAbs: 'https://github.com/open-battleforge'
   },
   {
     id: 'discord',
