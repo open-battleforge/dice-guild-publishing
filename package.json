@@ -1,6 +1,7 @@
 {
   "name": "dice-guild",
   "version": "0.1.0",
+  "homepage": "https://open-battleforge.github.io/dice-guild-publishing",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",
@@ -31,7 +32,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "cross-env BROWSER=none react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
