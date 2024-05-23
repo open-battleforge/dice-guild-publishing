@@ -3,6 +3,12 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import DiceIcon from 'mdi-material-ui/Dice6';
 import Discord from 'mdi-material-ui/Discord';
 import Coffee from 'mdi-material-ui/CoffeeOutline';
+import VortexGateImage from 'assets/images/vortex_gate.jpg';
+import VortexGateLogo from 'assets/images/vortex_gate_logo.png';
+import BattleForgeImage from 'assets/images/battle_forge.jpg';
+import BattleForgeLogo from 'assets/images/battle_forge_logo.png';
+import QuestForgeImage from 'assets/images/quest_forge.jpg';
+import QuestForgeLogo from 'assets/images/quest_forge_logo.png';
 
 export const GAMES = {
   "vortex_gate": {
@@ -10,8 +16,8 @@ export const GAMES = {
     "name": "Vortex Gate",
     "toAbs": "https://www.vortexgategame.com/",
     "text": "Modular miniature wargame which covers skirmish up to large battle game sizes with many different game settings available.",
-    "image": "images/vortex_gate.jpg",
-    "logo": "images/vortex_gate_logo.png",
+    "image": VortexGateImage,
+    "logo": VortexGateLogo,
     "color": "#2e8545"
   },
   "battle_forge": {
@@ -19,8 +25,8 @@ export const GAMES = {
     "name": "Battle Forge",
     "toAbs": "https://www.battleforgegame.com/",
     "text": "Modular miniature wargame which covers skirmish up to large battle game sizes with many different game settings available.",
-    "image": "images/battle_forge.jpg",
-    "logo": "images/battle_forge_logo.png",
+    "image": BattleForgeImage,
+    "logo": BattleForgeLogo,
     "color": "#2e8545"
   },
   "quest_forge": {
@@ -28,8 +34,8 @@ export const GAMES = {
     "name": "Quest Forge",
     "toAbs": "https://www.questforgegame.com/",
     "text": "Modular roleplaying game with several different settings to choose from and a flexible set of rules to cover anything you want.",
-    "image": "images/quest_forge.jpg",
-    "logo": "images/quest_forge_logo.png",
+    "image": QuestForgeImage,
+    "logo": QuestForgeLogo,
     "color": "#613480"
   }
 }

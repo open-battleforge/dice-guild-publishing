@@ -129,7 +129,7 @@ export default function Home() {
                       justifyContent="center"
                       sx={{
                         width: "100%",
-                        background: "rgba(0,0,0,0.6)",
+                        background: "rgba(0,0,0,0.5)",
                       }}
                     >
                       <img alt="logo" className="game-logo" src={card.logo} />
