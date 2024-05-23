@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dice-guild-publishing/static/css/main.7eeb4802.css",
-    "main.js": "/dice-guild-publishing/static/js/main.06f693df.js",
+    "main.js": "/dice-guild-publishing/static/js/main.da94c99c.js",
     "static/js/787.c0e132c3.chunk.js": "/dice-guild-publishing/static/js/787.c0e132c3.chunk.js",
     "static/media/vortex_gate.jpg": "/dice-guild-publishing/static/media/vortex_gate.5b140bf9a931322ebdce.jpg",
     "static/media/battle_forge.jpg": "/dice-guild-publishing/static/media/battle_forge.7f207e2278a8acb5458c.jpg",
@@ -13,11 +13,11 @@
     "static/media/vortex_gate_logo.png": "/dice-guild-publishing/static/media/vortex_gate_logo.e30f15a6a18e425ea564.png",
     "index.html": "/dice-guild-publishing/index.html",
     "main.7eeb4802.css.map": "/dice-guild-publishing/static/css/main.7eeb4802.css.map",
-    "main.06f693df.js.map": "/dice-guild-publishing/static/js/main.06f693df.js.map",
+    "main.da94c99c.js.map": "/dice-guild-publishing/static/js/main.da94c99c.js.map",
     "787.c0e132c3.chunk.js.map": "/dice-guild-publishing/static/js/787.c0e132c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7eeb4802.css",
-    "static/js/main.06f693df.js"
+    "static/js/main.da94c99c.js"
   ]
 }
