@@ -33,7 +33,7 @@ export default function Home() {
       name: "GitHub",
       icon: <GitHubIcon style={{ fontSize: iconSize }} />,
       text: "Contribute to the game code on Github.",
-      toAbs: "https://github.com/dice-guild",
+      toAbs: "https://github.com/open-battleforge",
     },
     {
       name: "Discord",
